@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/stuart/Documents/2019/Other/coding/scala-api/src/main/scala/Router.scala:19:24: not found: value createTodoValidator[0m
+[0m[[0m[31merror[0m] [0m[0m          validateWith(createTodoValidator)(createTodo) {[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

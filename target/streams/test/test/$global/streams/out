@@ -1,0 +1,12 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TodoRouterUpdateSpec, org.scalatest.tools.Framework$$anon$1@64c3e872, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TodoRouterCreateSpec, org.scalatest.tools.Framework$$anon$1@64c3e872, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TodoRouterListSpec, org.scalatest.tools.Framework$$anon$1@64c3e872, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 1 second, 491 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 11[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 3, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 11, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TodoRouterListSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TodoRouterCreateSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TodoRouterUpdateSpec[0m
