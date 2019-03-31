@@ -1,4 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/stuart/Documents/2019/Other/coding/scala-api/src/test/scala/TodoMocks.scala:4:9: class FailingRepository needs to be abstract, since method update in trait TodoRepository of type (id: String, updateTodo: UpdateTodo)scala.concurrent.Future[Todo] is not defined[0m
-[0m[[0m[31merror[0m] [0m[0m  class FailingRepository extends TodoRepository {[0m
-[0m[[0m[31merror[0m] [0m[0m        ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
