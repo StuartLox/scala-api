@@ -4,7 +4,7 @@ import TodoRepository.TodoNotFound
 
 import scala.concurrent.{ExecutionContext, Future}
 
-trait TodoRepository {
+trait   TodoRepository {
   def all(): Future[Seq[Todo]]
   def done(): Future[Seq[Todo]]
   def pending(): Future[Seq[Todo]]
